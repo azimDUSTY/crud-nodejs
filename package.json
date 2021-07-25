@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/azimDUSTY/crud-nodejs/issues"
   },
-  "homepage": "https://github.com/azimDUSTY/crud-nodejs#readme"
+  "homepage": "https://github.com/azimDUSTY/crud-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
